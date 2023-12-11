@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import*
 #створення додатку
 app=QApplication([])
 win=QWidget()
-
+#nsdfjfowefkwefmiwjfrefkerwfrwefregrefeferwfewdwegergeafgregefewfwefwe
 win.resize(500,500)
 win.setWindowTitle("Tест ГібХаб")
 
